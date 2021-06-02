@@ -18,7 +18,7 @@
 <a href="https://stackoverflow.com/users/mdashikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="mdashikar" height="30" width="40" /></a>
 <a href="https://fb.com/mdashikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="mdashikar" height="30" width="40" /></a>
 <a href="https://instagram.com/mdashikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="mdashikar" height="30" width="40" /></a>
-<a href="https://discord.gg/ashik#7925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="ashik#7925" height="30" width="40" /></a>
+<a href="https://discord.gg/7925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="ashik#7925" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
