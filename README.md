@@ -1,8 +1,4 @@
-<div align="center">
-<img width="100%" height = "350px" src="https://cdn.pixabay.com/photo/2017/10/01/17/09/nature-2806211_960_720.jpg" alt="cover" />
-</div>
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px height=50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdashikar.mdashikar)
