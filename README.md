@@ -1,62 +1,43 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50px height=50px> </h1>
-<p align='center'>
+# Hey, I'm Ashiqur 👋
 
-</p>
-<div size='20px'> Hi! My name is Md Ashiqur Rahman. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+Lead Software Engineer at [Dorik](https://dorik.com) · Building [Feevox](https://feevox.com) on the side · Based in Sylhet, Bangladesh
 
-<h2> About Me : </h2>
+---
 
+### What I do
 
-- 🔭 I’m currently working on cool projects
+Backend-focused engineer with 7+ years shipping production systems. At Dorik I lead the backend team, manage cloud infrastructure, and build products end-to-end. Outside work I'm building Feevox — a SaaS for product teams to collect feedback and publish roadmaps.
 
-- 🌱 I’m currently learning Python, Data Science, Data Engineering 
+---
 
-- 👯 I’m looking to collaborate on Projects 
+### Things I've shipped
 
-- 💬 Talk to me about VueJS, NuxtJS, JavaScript, NodeJs, Remote Opportunities, Freelancing Opportunities, Open Source 
+| Project | What it is | Role |
+|---|---|---|
+| [Feevox.com](https://feevox.com) | Customer feedback & public roadmap SaaS | Solo · Full-stack |
+| [Consently.net](https://consently.net) | Consent management platform | Sole backend engineer |
+| [Postmonk.co](https://postmonk.co) | Social media scheduling app | Solo · Full-stack |
 
-<h2> Skills :</h2>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=nuxtjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nuxtjs.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=vuepress&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuepress.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=vuetify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuetify.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=bulma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bulma.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/mdashikar?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
+---
 
+### Stack
 
-<h2> Connect with me  </h2>
-<a href = 'https://www.linkedin.com/in/mdashikar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/mdashikar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://ashik.dev/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/mdashikar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+**Backend**
+`Node.js` `Express.js` `GraphQL` `RabbitMQ` `MongoDB` `Redis`
 
+**Frontend**
+`Vue.js` `Nuxt.js` `TypeScript` `React` `Next.js`
 
-<!--  <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="70px"></h2>
- 
-![Ashiqur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mdashikar)
- -->
+**Infrastructure**
+`AWS` `Terraform` `Docker` `CI/CD`
 
-<br>
+---
 
+### Find me
 
-<h2> My GitHub Stats  </h2>
-  
-![Ashiqur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdashikar&count_private=true&show_icons=true&theme=radical)
+[![Website](https://img.shields.io/badge/ashik.dev-000000?style=flat&logo=About.me&logoColor=white)](https://ashik.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdashikar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mdashikar)
 
-
-![Metrics](https://metrics.lecoq.io/mdashikar?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-<h2> Some Programming Humor for you </h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+---
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=mdashikar&theme=github_dark)
